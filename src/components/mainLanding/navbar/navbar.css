@@ -1,0 +1,30 @@
+*{
+    margin:0;
+}
+
+.navbar{
+   background-color:turquoise;
+   
+   max-width: 100vw;
+}
+
+.categories{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color:white;
+
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+    padding:10px;
+}
+
+a:hover{
+    
+    
+    
+    
+}
